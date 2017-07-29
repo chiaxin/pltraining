@@ -16,7 +16,7 @@ open(my $read_file_handle, ">", $file_name) or die "Can't open file : $!";
 print $read_file_handle "This is first line\n";
 print $read_file_handle "This is second line\n";
 
-my @line_array = ("AAAA", "BBBB", "CCCC");
+my @line_array = ("AAAA", "BBBB", "CCCC", "DDDD");
 
 foreach my $write_line (@line_array)
 {
