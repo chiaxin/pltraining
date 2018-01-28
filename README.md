@@ -1,2 +1,3 @@
-# pltraining
-For self traning in Perl lang
+# pl training
+
+Self training in `Perl`
